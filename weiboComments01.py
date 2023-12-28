@@ -49,13 +49,9 @@ def get_comments(weiboId):
                                 proxies=proxie)
 
         json_list = response.json()
-        try:
-            max_id = json_list['data'].get('max_id')  
-            if max_id is None:
-                print("无法获取更多评论，已退出程序")
-                break
-        except KeyError as e:
-            print("评论已爬取完成，一共爬取了"+str(comments_count)+"条数据")
+        max_id = json_list['data']['max_id']
+        if not max_id:
+            print("没有更多评论了,已退出程序")
             break
         results = json_list['data']['data']
         max_id_type = json_list['data']['max_id_type']
