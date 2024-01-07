@@ -20,5 +20,23 @@
 | 1    | 4984397839737877     | 2023-12-29 21:28:33 | 来自山东    | 4          | 借用了太暖心了[贊][贊]                      | 莲花开在天涯          | 久了就忘了期待……隔着天涯        | 2202765655 | 361      | 4132   | 男   |
 | 1    | 4985850570212090     | 2024-01-02 21:41:10 | 来自云南    | 0          | 阿鱼313                                    | 祁薇楠                 | 助攻第一名                    | 6034508799 | 1845     | 138    | 女   |
 
-#### 'showTopComments.py': The top 20 in terms of the number of points
+#### 'showFans.py'
 ![image](https://github.com/huzixuan1/weiboSpider/assets/45528733/709f839b-3249-41b4-b686-beb6c743dafc)
+
+#### 'showIp.py'
+![image](https://github.com/huzixuan1/weiboSpider/assets/45528733/fdcdfa30-27e6-4f6f-a7ec-13fd6cc33222)
+
+#### 'showLine.py'
+![image](https://github.com/huzixuan1/weiboSpider/assets/45528733/8370fee4-37b2-4d1b-b9d6-008c9da767d4)
+
+#### 'showSex.py'
+![image](https://github.com/huzixuan1/weiboSpider/assets/45528733/a901cdcf-a4c9-4aa4-8828-053e1dd1e4e0)
+
+#### 'showTopComments.py'
+![image](https://github.com/huzixuan1/weiboSpider/assets/45528733/9d89b7c8-16ad-4c87-a3b5-fac938010f88)
+
+#### 'showWordCould.py'
+![image](https://github.com/huzixuan1/weiboSpider/assets/45528733/2ea9861b-212e-4a4a-ad58-7e13d4aac2b6)
+
+
+
