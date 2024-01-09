@@ -35,8 +35,17 @@
 #### 'showTopComments.py'
 ![image](https://github.com/huzixuan1/weiboSpider/assets/45528733/9d89b7c8-16ad-4c87-a3b5-fac938010f88)
 
+
 #### 'showWordCould.py'
 ![image](https://github.com/huzixuan1/weiboSpider/assets/45528733/2ea9861b-212e-4a4a-ad58-7e13d4aac2b6)
+
+
+#### 可视化大屏
+##### run release.py
+![pic01](https://github.com/huzixuan1/weiboSpider/assets/45528733/52369856-5e25-4cc0-9e77-46a3db62b028)
+
+#### run reload.py
+![pic02](https://github.com/huzixuan1/weiboSpider/assets/45528733/618b19ba-0da9-4a15-9c66-434e01645ab7)
 
 
 
