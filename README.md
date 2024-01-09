@@ -44,14 +44,13 @@
 ##### run release.py
 ![pic01](https://github.com/huzixuan1/weiboSpider/assets/45528733/52369856-5e25-4cc0-9e77-46a3db62b028)
 
-
-#### 具体运行可以看下面的视频：
-https://www.bilibili.com/video/BV1uC4y1B7mW/?spm_id_from=333.999.0.0
-https://www.bilibili.com/video/BV1Be411U7f7/?spm_id_from=333.999.0.0
-https://www.bilibili.com/video/BV1BV41197kv/?spm_id_from=333.999.0.0
-
 #### run reload.py
 ![pic02](https://github.com/huzixuan1/weiboSpider/assets/45528733/618b19ba-0da9-4a15-9c66-434e01645ab7)
+
+#### 具体运行可以看下面的视频：
+##### https://www.bilibili.com/video/BV1uC4y1B7mW/?spm_id_from=333.999.0.0
+##### https://www.bilibili.com/video/BV1Be411U7f7/?spm_id_from=333.999.0.0
+##### https://www.bilibili.com/video/BV1BV41197kv/?spm_id_from=333.999.0.0
 
 
 
