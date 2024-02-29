@@ -29,17 +29,10 @@ def get_comments(weiboId):
         csv_write = csv.writer(f)
         csv_write.writerow(['页码','评论id','评论发布时间','评论ip','评论点赞数','评论','评论用户名','评论用户简介','用户Id','关注人数','粉丝数','性别(f=女|m=男)'])
 
-
-    # 创建一个 UserAgent 对象
-    user_agent = UserAgent()
-    random.seed()
-
     while True:
         headers = {
             'cookie': cookies ,
             'referer': 'https://m.weibo.cn/detail',
-            
-            'user-agent': user_agent.random
 
             }
 
@@ -51,7 +44,7 @@ def get_comments(weiboId):
         json_list = response.json()
         max_id = json_list['data']['max_id']
         try:
-            max_id = json_list['data'].get('max_id')  
+            max_id = json_list['data').get('max_id')  
             if max_id is None:
                 print("无法获取更多评论，已退出程序")
                 break
